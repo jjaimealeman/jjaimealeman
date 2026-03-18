@@ -1,94 +1,68 @@
 ### Hey, Hi, Hello, Hola, Howdy - Jaime here 👋
 
-I'm afraid there isn't really much to see here, but as I make progress on my projects, I will be sure to update this more often 😉
+Self-taught web developer based in El Paso, TX with 10+ years of experience building for the web. No degree, no bootcamp — just a relentless pursuit of knowledge and a love for the craft.
 
-- 🔭 I’m currently working on ~~mastering~~ _learning_ Nuxt! **The deeper I go, the deeper I go**.
-- - I finished the [NuxtJS Fundamentals video](https://vueschool.io/courses/). It is a really well thought-out Intro to Nuxt! 👍
-- - Also did [this tutorial from nuxtjs.org](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/) where I created a simple Blog and styled it with TailwindCSS.
-- 🌱 I am also currently enrolled in [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). My completion rate is at _~~34%~~_ _45%_.
+I practice **agentic engineering** — building alongside AI using Claude Code with a custom skills collection + [GSD workflow](https://github.com/gsd-build/get-shit-done) to ship real products, not prototypes.
 
-- 💬 Ask me about ...
-- - ☕ Coffee? I used to roast my own beans. My favorites include Ethiopian and Columbian blends.
-- - 🍺 My favorite beers are IPAs, stouts, and hefeweizens!
-- - 💑 I have two amazingly brilliant beautiful teen daughters.
-
-- ⚡ Fun facts: ...
-- - 🍜 I eat a bowl of Tonkotsu Ramen most nights while coding.
-- - 📱 I am a huge fan of Google smartphones. I've owned several of their Nexus phones and their Pixel line. Currently I have the Pixel 4a 5G. I've had at least 8 of their devices.
-- - 💻 My laptop is a Thinkpad E590 with 32GB RAM and a combined storage of 1.5TB on two SSDs.
-- - 🐧 I've used Linux far longer than I've used Windows. Over 15 years ago I started on Suse, Mandrake, Crunchbang and later ventured into Arch, Manjaro, a minimal Debian install with i3WM, every Ubuntu derivative and Pop OS 21.04. I've stopped distro-hopping in November 2021 after installing EndeavourOS with `bspwm`.
-- - 🥇 I am really enjoying tmux + Kitty + starship.rs
+Linux enthusiast for 15+ years. I use Arch, BTW.
 
 ---
 
-<!-- https://www.profileme.dev/ -->
+### What I'm Building
 
-My name is Jaime Aleman.
-=============================
+🔥 **[FlareCMS](https://flarecms.dev)** — An edge-native headless CMS for **Astro** sites, built on Cloudflare Workers, D1, R2, and KV. Content management at the edge.
 
-I am Freelance Web Developer.
-------------------------
+🌐 **[915website.com](https://915website.com)** — My freelance web development practice serving local businesses in El Paso. You work directly with me — no middlemen, no runaround.
 
-Making the jump soon towards LLC, to offer Web Development & Design Services to local area businesses in El Paso, TX.
+✍️ **[jjaimealeman.com](https://jjaimealeman.com)** — Personal dev blog where I write about what I'm learning and building.
 
-*   🌍 I've lived in El Paso for over 30 years.
-*   🧠 I'm learning Learning Vue & Nuxt.
+---
 
-### Skills
+### Tech Stack
 
-<p align="left">
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
-    </a>
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-    </a>
-    <a href="https://directus.io/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/15967950?s=200&amp;v=4" alt="@directus" width="36" height="36" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-    </a>
-</p>
+**Frameworks & Languages**
 
-### Socials
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="left">
-    <a href="https://www.github.com/jjaimealeman" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.twitter.com/jjaimealeman" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.codepen.io/jjaimealeman" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
-    </a>
-    <a href="http://www.instagram.com/jjaimealeman" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </a>
-    <a href="https://discord.com/users/jjaimealeman#8237" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </a>
-</p>
+**Platform & Infrastructure**
 
-### Badges
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1_Database-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![R2](https://img.shields.io/badge/R2_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Tooling**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### Fun Facts
+
+- ☕ I used to roast my own coffee beans. Ethiopian and Colombian blends are my go-to.
+- 🍺 IPAs, stouts, and hefeweizens.
+- 🍜 Shin Ramyun Black most nights while coding. Beef bone broth is non-negotiable.
+- 📱 Lifelong Google Pixel fan — Nexus days through Pixel 9a. At least 8 devices deep.
+- 💻 Lenovo ThinkCentre M75s Gen 2 — Ryzen 7 PRO 5750G, 64GB RAM, ~1.0TB storage, triple monitors.
+- 🐧 Linux for 15+ years — Suse, Mandrake, Crunchbang, Arch, Manjaro, Debian, Ubuntu, EndeavourOS... landed on Arch. Niri (Wayland) + Kitty + tmux + Neovim + starship.rs
+- 🤖 Claude Code + 50 custom skills + GSD framework. Terminal-first, AI-native development.
+
+---
+
+### GitHub Stats
 
 <a href="https://github.com/jjaimealeman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaimealeman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaimealeman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-<a href="http://www.github.com/jjaimealeman">
-    <img src="https://github-readme-stats.vercel.app/api?username=jjaimealeman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jjaimealeman's GitHub stats" />
+<a href="https://github.com/jjaimealeman">
+    <img src="https://github-readme-stats.vercel.app/api?username=jjaimealeman&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Jaime's GitHub Stats" />
 </a>
-
-
----
-
-![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/2044?logoColor=white%26project=%26recentMS=0%26showProject=false)
